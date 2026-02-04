@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Copy",
+    "keys": "Cmd+C",
+    "tag": "System",
+    "description": "Copy selected text or items"
+  },
+  {
+    "id": 2,
+    "name": "Paste",
+    "keys": "Cmd+V",
+    "tag": "System",
+    "description": "Paste from clipboard"
+  },
+  {
+    "id": 3,
+    "name": "Cut",
+    "keys": "Cmd+X",
+    "tag": "System",
+    "description": "Cut selected text or items"
+  },
+  {
+    "id": 4,
+    "name": "Undo",
+    "keys": "Cmd+Z",
+    "tag": "System",
+    "description": "Undo last action"
+  },
+  {
+    "id": 5,
+    "name": "Redo",
+    "keys": "Cmd+Shift+Z",
+    "tag": "System",
+    "description": "Redo last undone action"
+  },
+  {
+    "id": 6,
+    "name": "Save",
+    "keys": "Cmd+S",
+    "tag": "System",
+    "description": "Save current document"
+  },
+  {
+    "id": 7,
+    "name": "New Tab",
+    "keys": "Cmd+T",
+    "tag": "Browser",
+    "description": "Open new browser tab"
+  },
+  {
+    "id": 8,
+    "name": "Close Tab",
+    "keys": "Cmd+W",
+    "tag": "Browser",
+    "description": "Close current tab"
+  },
+  {
+    "id": 9,
+    "name": "Reopen Tab",
+    "keys": "Cmd+Shift+T",
+    "tag": "Browser",
+    "description": "Reopen last closed tab"
+  },
+  {
+    "id": 10,
+    "name": "Find",
+    "keys": "Cmd+F",
+    "tag": "Browser",
+    "description": "Find text on page"
+  },
+  {
+    "id": 11,
+    "name": "Spotlight Search",
+    "keys": "Cmd+Space",
+    "tag": "System",
+    "description": "Open Spotlight search"
+  },
+  {
+    "id": 12,
+    "name": "Screenshot Area",
+    "keys": "Cmd+Shift+4",
+    "tag": "System",
+    "description": "Take screenshot of selected area"
+  },
+  {
+    "id": 13,
+    "name": "Screenshot Window",
+    "keys": "Cmd+Shift+4+Space",
+    "tag": "System",
+    "description": "Take screenshot of a window"
+  },
+  {
+    "id": 14,
+    "name": "Minimize Window",
+    "keys": "Cmd+M",
+    "tag": "Window Management",
+    "description": "Minimize active window"
+  },
+  {
+    "id": 15,
+    "name": "Switch Apps",
+    "keys": "Cmd+Tab",
+    "tag": "Window Management",
+    "description": "Switch between open applications"
+  },
+  {
+    "id": 16,
+    "name": "Switch Windows",
+    "keys": "Cmd+`",
+    "tag": "Window Management",
+    "description": "Switch between windows of same app"
+  },
+  {
+    "id": 17,
+    "name": "Force Quit",
+    "keys": "Cmd+Opt+Esc",
+    "tag": "System",
+    "description": "Open Force Quit Applications window"
+  },
+  {
+    "id": 18,
+    "name": "Lock Screen",
+    "keys": "Cmd+Ctrl+Q",
+    "tag": "System",
+    "description": "Lock your Mac screen"
+  },
+  {
+    "id": 19,
+    "name": "Select All",
+    "keys": "Cmd+A",
+    "tag": "System",
+    "description": "Select all items"
+  },
+  {
+    "id": 20,
+    "name": "Bold Text",
+    "keys": "Cmd+B",
+    "tag": "Editor",
+    "description": "Make selected text bold"
+  },
+  {
+    "id": 21,
+    "name": "Italic Text",
+    "keys": "Cmd+I",
+    "tag": "Editor",
+    "description": "Make selected text italic"
+  },
+  {
+    "id": 22,
+    "name": "Underline Text",
+    "keys": "Cmd+U",
+    "tag": "Editor",
+    "description": "Underline selected text"
+  },
+  {
+    "id": 23,
+    "name": "Print",
+    "keys": "Cmd+P",
+    "tag": "System",
+    "description": "Open print dialog"
+  },
+  {
+    "id": 24,
+    "name": "Refresh Page",
+    "keys": "Cmd+R",
+    "tag": "Browser",
+    "description": "Reload current page"
+  },
+  {
+    "id": 25,
+    "name": "Hard Refresh",
+    "keys": "Cmd+Shift+R",
+    "tag": "Browser",
+    "description": "Reload page ignoring cache"
+  },
+  {
+    "id": 26,
+    "name": "Open DevTools",
+    "keys": "Cmd+Opt+I",
+    "tag": "Browser",
+    "description": "Open browser developer tools"
+  },
+  {
+    "id": 27,
+    "name": "Zoom In",
+    "keys": "Cmd+Plus",
+    "tag": "Browser",
+    "description": "Zoom in on page"
+  },
+  {
+    "id": 28,
+    "name": "Zoom Out",
+    "keys": "Cmd+Minus",
+    "tag": "Browser",
+    "description": "Zoom out on page"
+  },
+  {
+    "id": 29,
+    "name": "Reset Zoom",
+    "keys": "Cmd+0",
+    "tag": "Browser",
+    "description": "Reset zoom to 100%"
+  },
+  {
+    "id": 30,
+    "name": "Hide Window",
+    "keys": "Cmd+H",
+    "tag": "Window Management",
+    "description": "Hide current application"
+  }
+]
